@@ -66,14 +66,14 @@ Metrics used: **Accuracy**, **Confusion Matrix**, and **Classification Report**.
 
 | Model | Accuracy | Precision | Recall | F1-score |
 |--------|-----------|-----------|--------|-----------|
-| Logistic Regression | ~XX% | XX | XX | XX |
-| Random Forest | ~XX% | XX | XX | XX |
+| Logistic Regression | 90| 0.89 | 0.89 | 0.89 |
+| Random Forest | 93% | 0.90 | 0.90| 0.90 |
 
 ---
 
 ## 🧩 Insights
 - Key factors affecting conversion include session counts, average time, and device type.  
-- Random Forest generally performs better due to handling of nonlinear relationships.
+- Random Forest generally performs better due to the handling of nonlinear relationships.
 
 ---
 
@@ -107,7 +107,4 @@ scikit-learn
 
 ---
 
-## 👩‍💻 Author
-**Your Name**  
-📧 your.email@example.com  
-🔗 [GitHub Profile Link]
+
