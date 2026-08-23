@@ -1,7 +1,7 @@
 ## Customer Conversion Prediction using Machine Learning
 
-### Introduction
 
+### Introduction
 This project using machine learning approach used to identify whether a customer is likely to complete a desired action based on their behavior and interactions. Analyzes customer behavioral, demographic, and session-based data to understand the factors that influence conversion. By applying classification algorithms, the system predicts customer conversion outcomes and compares model performance using relevant evaluation metrics. The insights can help businesses better understand customer behavior and support data-driven marketing and decision-making.
 
 
